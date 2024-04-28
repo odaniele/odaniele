@@ -1,5 +1,5 @@
 <p>
-<h2 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira Code&weight=500&size=35&pause=1000&color=2DD225BD&center=true&vCenter=true&random=false&width=675&height=53&lines=Hello!+Welcome+to+my+GitHub!;I'm+a+Front-End+developer+😊;" alt="Typing SVG" /></a></h1>
+<h2 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&weight=500&size=35&pause=1000&color=2DD225BD&center=true&vCenter=true&random=false&width=675&height=53&lines=Hello!+Welcome+to+my+GitHub!;I'm+a+Front-End+developer+😊;" alt="Typing SVG" /></a></h1>
 <div>
 
 💻 I'm a **Front-End Developer** and  **Systems Analysis and Development** student.
